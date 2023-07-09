@@ -1,5 +1,6 @@
 window.addEventListener('DOMContentLoaded', _event => {
   const css = `
+    *{font-family: "LXGW Neo XiHei Screen" !important;}
     #page #footer-wrapper,
     .drawing-board .toolbar .toolbar-action,
     .c-swiper-container,
